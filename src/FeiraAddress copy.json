@@ -1,0 +1,1282 @@
+[
+  {
+    "Endereço": "Rua Afonso Ferreira",
+    "Bairro": "Engenho De Dentro",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Araripe Junior",
+    "Bairro": "Andarai",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Av Augusto Severo",
+    "Bairro": "Gloria",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Basilio De Brito",
+    "Bairro": "Cachambi",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Bispo Lacerda",
+    "Bairro": "Del Castilho",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Carnauba",
+    "Bairro": "Senador Camara",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Cherburgo",
+    "Bairro": "Bangu",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Dona Emilia",
+    "Bairro": "Inhauma",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Avn Eng. Souza Filho",
+    "Bairro": "Jacarepagua",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Gal Bruce",
+    "Bairro": "Sao Cristovao",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Gal. Gurjao",
+    "Bairro": "Caju",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Avn Jambeiro",
+    "Bairro": "Vila Valqueire",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Laudelino Vieira De Campos",
+    "Bairro": "Campo Grande",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Av Lineu De Paula Machado",
+    "Bairro": "Lagoa",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Macapuri",
+    "Bairro": "Penha",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Mal Modestino",
+    "Bairro": "Realengo",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Etr Manuel Nogueira De Sa",
+    "Bairro": "Realengo",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Marques De Queluz",
+    "Bairro": "Iraja",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Operario Sadock De Sa",
+    "Bairro": "Madureira",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Ouseley",
+    "Bairro": "Coelho Neto",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Pereira Da Rocha/Adequê",
+    "Bairro": "Ricardo De Albuquerque",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Ponta Pora",
+    "Bairro": "Vista Alegre",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Prof Clemente Ferreira",
+    "Bairro": "Bangu",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Barão Rua",
+    "Bairro": "Praca Seca",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Pena Rua",
+    "Bairro": "Penha",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Bétula Rua",
+    "Bairro": "Guadalupe",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Cavaleiro Rua",
+    "Bairro": "Cidade De Deus",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Pca Sao Perpetuo",
+    "Bairro": "Barra Da Tijuca",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Sargento Joao Lopes",
+    "Bairro": "Cacuia",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Prc Serzedelo Correia",
+    "Bairro": "Copacabana",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Pca Tenente Gil Guilherme",
+    "Bairro": "Urca",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Vicente Licinio",
+    "Bairro": "Praca Da Bandeira",
+    "DayWeek": "Domingo",
+    "DayWeekNum": 0,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Aguiar",
+    "Bairro": "Tijuca",
+    "DayWeek": "Segunda-Feira",
+    "DayWeekNum": 1,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Emilia Guimaraes",
+    "Bairro": "Catumbi",
+    "DayWeek": "Segunda-Feira",
+    "DayWeekNum": 1,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Visc. De Pirajá E Nascimento Silva  Av Epitácio Pessoa",
+    "Bairro": "Ipanema",
+    "DayWeek": "Segunda-Feira",
+    "DayWeekNum": 1,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Grao Para",
+    "Bairro": "Engenho Novo",
+    "DayWeek": "Segunda-Feira",
+    "DayWeekNum": 1,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Noronha Prc",
+    "Bairro": "Leme",
+    "DayWeek": "Segunda-Feira",
+    "DayWeekNum": 1,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Prof Hilariao Da Rocha",
+    "Bairro": "Taua",
+    "DayWeek": "Segunda-Feira",
+    "DayWeekNum": 1,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Rubis",
+    "Bairro": "Rocha Miranda",
+    "DayWeek": "Segunda-Feira",
+    "DayWeekNum": 1,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Vicente De Souza",
+    "Bairro": "Botafogo",
+    "DayWeek": "Segunda-Feira",
+    "DayWeekNum": 1,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Ana Teles",
+    "Bairro": "Campinho",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Araguaia",
+    "Bairro": "Freguesia(Jacarepagua)",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Arno Konder, Rua / Gov. Irineu Bornhausen",
+    "Bairro": "Flamengo",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Barao De Macaubas",
+    "Bairro": "Botafogo",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Caminho Do Mateus",
+    "Bairro": "Piedade",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Campeiro-Mor",
+    "Bairro": "Santa Cruz",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Campo Maior / Av Mariana",
+    "Bairro": "Campo Grande",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Catulo Cearence",
+    "Bairro": "Engenho De Dentro",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Doutor Manoel Cotrim",
+    "Bairro": "Riachuelo",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Franz Liszt",
+    "Bairro": "Jardim America",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Gabriela Prado Maia",
+    "Bairro": "Tijuca",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Gal Olivio Uzeda",
+    "Bairro": "Jacarepagua",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Pca Gal Osorio",
+    "Bairro": "Ipanema",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Galdino Pimentel",
+    "Bairro": "Meier",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Jorge Rudge",
+    "Bairro": "Vila Isabel",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Mal Foch",
+    "Bairro": "Bonsucesso",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Mearim",
+    "Bairro": "Grajau",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Obidos",
+    "Bairro": "Bento Ribeiro",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Odorico Mendes",
+    "Bairro": "Cachambi",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Prof Boscoli",
+    "Bairro": "Maria Da Graca",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Pca Prof Pinheiro Guimaraes",
+    "Bairro": "Tijuca",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Pra Prof Virginia Cidade",
+    "Bairro": "Coelho Neto",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Figueiredo Rua",
+    "Bairro": "Vaz Lobo",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Sao Caetano",
+    "Bairro": "Magalhaes Bastos",
+    "DayWeek": "Terça-Feira",
+    "DayWeekNum": 2,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Adelaide Badajos",
+    "Bairro": "Oswaldo Cruz",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Antonio Vargas",
+    "Bairro": "Piedade",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Barao De Sertorio",
+    "Bairro": "Rio Comprido",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Cambuci Do Vale",
+    "Bairro": "Vicente De Carvalho",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Casemiro De Abreu",
+    "Bairro": "Pilares",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Cel Moreira Cesar",
+    "Bairro": "Costa Barros",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Prc Edmundo Bittencourt",
+    "Bairro": "Copacabana",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Eufrasio Correa",
+    "Bairro": "Quintino Bocaiuva",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Firmino Gameleira",
+    "Bairro": "Olaria",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Gustavo Riedel",
+    "Bairro": "Engenho De Dentro",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Jacui",
+    "Bairro": "Penha",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Mal Marciano",
+    "Bairro": "Bangu",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Maria Eugenia",
+    "Bairro": "Humaita",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Mendes Tavares",
+    "Bairro": "Vila Isabel",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Pca Nicaragua",
+    "Bairro": "Botafogo",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Olimpio De Castro",
+    "Bairro": "Campo Dos Afonsos",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Roberto Da Silveira Parque Uniao",
+    "Bairro": "Mare",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Perigault Rua",
+    "Bairro": "Taquara",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Moises Rua",
+    "Bairro": "Cidade De Deus",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Tedim Ruas",
+    "Bairro": "Tanque",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Salvador Pires",
+    "Bairro": "Meier",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Sampaio Ferraz",
+    "Bairro": "Estacio",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Sapopemba",
+    "Bairro": "Bento Ribeiro",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Avn Tenente Rebelo",
+    "Bairro": "Iraja",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Valerio",
+    "Bairro": "Engenheiro Leal",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Visconde De Figueiredo",
+    "Bairro": "Tijuca",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Gal. Vossio Brigido",
+    "Bairro": "Jacarepagua",
+    "DayWeek": "Quarta-Feira",
+    "DayWeekNum": 3,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Ariapo",
+    "Bairro": "Taquara",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Aruja",
+    "Bairro": "Freguesia(Ilha)",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Av Carlos Meziano Ilha do Governador",
+    "Bairro": "Portuguesa",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Pca Cel. Castelo Branco",
+    "Bairro": "Cidade Nova",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Conde Lages",
+    "Bairro": "Centro",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Das Margaridas",
+    "Bairro": "Vila Valqueire",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Eneas Martins",
+    "Bairro": "Guadalupe",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Gal Argolo",
+    "Bairro": "Sao Cristovao",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Gal Silveira Sobrinho",
+    "Bairro": "Penha",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Henrique Braga",
+    "Bairro": "Madureira",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Jorge Schmidt",
+    "Bairro": "Marechal Hermes",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Etr Jose Rucas",
+    "Bairro": "Penha",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Loasa",
+    "Bairro": "Guadalupe",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Magoari",
+    "Bairro": "Realengo",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Moraes E Silva",
+    "Bairro": "Maracana",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Auxiliadora Praça",
+    "Bairro": "Leblon",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Ronald de Carvalho",
+    "Bairro": "Copacabana",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Prc Sao Perpetuo",
+    "Bairro": "Barra Da Tijuca",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Senador Mourao Vieira",
+    "Bairro": "Ramos",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Silva Rabelo",
+    "Bairro": "Meier",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Silva Teles",
+    "Bairro": "Andarai",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Urucum",
+    "Bairro": "Bangu",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Vitor Meireles",
+    "Bairro": "Riachuelo",
+    "DayWeek": "Quinta-Feira",
+    "DayWeekNum": 4,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Abrantes",
+    "Bairro": "Magalhaes Bastos",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Alzira Brandao",
+    "Bairro": "Tijuca",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Antonio Rego",
+    "Bairro": "Olaria",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Caetano Da Silva",
+    "Bairro": "Cascadura",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Florania",
+    "Bairro": "Vista Alegre",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Avn Francisco Alves",
+    "Bairro": "Jardim Guanabara",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Garibaldi",
+    "Bairro": "Tijuca",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Vdt Jardel Filho",
+    "Bairro": "Laranjeiras",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Joaquim Meier",
+    "Bairro": "Lins De Vasconcelos",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Jose Sombra",
+    "Bairro": "Iraja",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Av Julio Furtado",
+    "Bairro": "Grajau",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Livramento Do",
+    "Bairro": "Saude",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Lopes Ferreira",
+    "Bairro": "Iraja",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Manoel Miranda",
+    "Bairro": "Engenho Novo",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Pca Nossa Senhora Da Paz",
+    "Bairro": "Ipanema",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Rodrigo De Brito",
+    "Bairro": "Botafogo",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Terezina Rua",
+    "Bairro": "Santa Teresa",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Pca Santos Dumont",
+    "Bairro": "Gavea",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Teresa Santos",
+    "Bairro": "Bento Ribeiro",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Vaz De Caminha",
+    "Bairro": "Meier",
+    "DayWeek": "Sexta-Feira",
+    "DayWeekNum": 5,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Lagoas Avenida",
+    "Bairro": "Gardenia Azul",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Costa Ferraz",
+    "Bairro": "Rio Comprido",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Cruz E Souza",
+    "Bairro": "Encantado",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Duquesa De Bragança",
+    "Bairro": "Grajau",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Eunapio Deiro",
+    "Bairro": "Realengo",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Felisbelo Freire",
+    "Bairro": "Ramos",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Fernandes Da Fonseca",
+    "Bairro": "Ribeira",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Floresta",
+    "Bairro": "Sepetiba",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Frei Leandro",
+    "Bairro": "Jardim Botanico",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Helianto",
+    "Bairro": "Padre Miguel",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Prç Iguatama",
+    "Bairro": "Bangu",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Iricume",
+    "Bairro": "Braz De Pina",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Jacina",
+    "Bairro": "Vaz Lobo",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Jurubaiba",
+    "Bairro": "Honorio Gurgel",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Anil Largo",
+    "Bairro": "Jacarepagua",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Laurindo Filho",
+    "Bairro": "Cavalcanti",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Mario Ferreira",
+    "Bairro": "Engenho Da Rainha",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Paulo Barreto",
+    "Bairro": "Botafogo",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Prof. Ortiz Monteiro",
+    "Bairro": "Laranjeiras",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Rocha Do",
+    "Bairro": "Rocha",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Abreu Rua",
+    "Bairro": "Maracana",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Tadeu Kosciusko / Carlos Sampaio",
+    "Bairro": "Centro",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Teresa Cavalcanti",
+    "Bairro": "Piedade",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "13:00"
+  },
+  {
+    "Endereço": "Rua Valentim Magalhaes",
+    "Bairro": "Vigario Geral",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Rua Van Gogh",
+    "Bairro": "Del Castilho",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  },
+  {
+    "Endereço": "Avn Vicente De Carvalho",
+    "Bairro": "Vila Kosmos",
+    "DayWeek": "Sábado",
+    "DayWeekNum": 6,
+    "Abertura": "07:00",
+    "Fechamento": "14:30"
+  }
+]
