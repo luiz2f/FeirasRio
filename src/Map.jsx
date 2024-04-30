@@ -41,24 +41,31 @@ function Map({ selected }) {
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png"
       />
-      {feiras.map((feira, index) => (
+      {feiras.slice(62, 76).map((feira, index) => (
         <Marker
           icon={aberta(feira) ? myIconA : myIconF}
           zIndexOffset={aberta(feira) ? 1100 : 1}
-          opacity={aberta(feira) ? 1 : 0.6}
+          opacity={aberta(feira) ? 1 : 1}
           key={index}
           position={[feira.latitude, feira.longitude]}
         >
           <Popup>
-            <p>{feira.endereco}</p>
-            <p>{feira.bairro}</p>
-            <p>{feira.dayWeek}</p>
-            <p>
-              <strong>Abre: </strong>
-              {feira.abertura} - <strong>Fecha: </strong>
-              {feira.fechamento}
-            </p>
-            <p></p>
+            <div style={{ textAlign: "center" }}>
+              <p>
+                <strong>{feira.bairro}</strong>
+              </p>
+              <p>{feira.endereco}</p>
+
+              <p>{feira.dayWeek}</p>
+              <p>
+                {feira.abertura} as {feira.fechamento}
+              </p>
+              {/* <p>
+                <strong>Abre: </strong>
+                {feira.abertura} - <strong>Fecha: </strong>
+                {feira.fechamento}
+              </p> */}
+            </div>
           </Popup>
         </Marker>
       ))}

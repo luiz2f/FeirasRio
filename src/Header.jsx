@@ -10,7 +10,7 @@ const diasDaSemana = [
   "Sábado",
 ];
 
-function Header({ selected, setSelected }) {
+function Header() {
   const [horaAtual, setHoraAtual] = useState("");
 
   function formatarHora(date) {
@@ -43,9 +43,7 @@ function Header({ selected, setSelected }) {
             <div className="data">{horaAtual}</div>
           </div>
         </div>
-        <div className="meio">
-          <WeekCalendar selected={selected} setSelected={setSelected} />
-        </div>
+        <div className="meio"></div>
         <div className="direita"></div>
       </div>
     </div>

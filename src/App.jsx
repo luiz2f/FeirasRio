@@ -2,6 +2,7 @@ import { useState } from "react";
 import Map from "./Map";
 import Header from "./Header";
 import { getDay } from "./assets/dia";
+import WeekCalendar from "./WeekCalendar";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -9,8 +10,9 @@ function App() {
 
   return (
     <>
-      <Header selected={selected} setSelected={setSelected} />
+      <Header />
       <Map selected={selected} />
+      <WeekCalendar selected={selected} setSelected={setSelected} />
     </>
   );
 }
