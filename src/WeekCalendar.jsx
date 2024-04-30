@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { getDay } from "./assets/dia";
 
 const semana = [
   { num: 0, day: "DOM" },
@@ -10,9 +11,7 @@ const semana = [
   { num: 6, day: "SAB" },
 ];
 
-function WeekCalendar() {
-  const [selected, setSelected] = useState(3);
-
+function WeekCalendar({ selected, setSelected }) {
   return (
     <div className="weekholder">
       {semana.map((day) => {
@@ -20,7 +19,7 @@ function WeekCalendar() {
           <div
             onClick={() => setSelected(day.num)}
             key={day.num}
-            className={`day${day.num == 3 ? " active" : ""}${
+            className={`day${day.num == getDay() ? " active" : ""}${
               selected === day.num ? " selected" : ""
             }`}
           >
