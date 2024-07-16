@@ -12,15 +12,15 @@ function Map({ selected }) {
   const iconanchor = [iconsize[0] / 2, iconsize[1]];
   console.log(iconanchor);
   const myIconA = new L.icon({
-    iconUrl: "public/iconA.png",
-    iconRetinaUrl: "public/iconA.png",
+    iconUrl: "/iconA.png",
+    iconRetinaUrl: "/iconA.png",
     popupAnchor: [-0, -50],
     iconAnchor: iconanchor,
     iconSize: iconsize,
   });
   const myIconF = new L.icon({
-    iconUrl: "public/iconF2.svg",
-    iconRetinaUrl: "public/iconF.svg",
+    iconUrl: "/iconF2.svg",
+    iconRetinaUrl: "/iconF.svg",
     popupAnchor: [-0, -50],
 
     iconAnchor: iconanchor,
@@ -41,7 +41,8 @@ function Map({ selected }) {
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png"
       />
-      {feiras.slice(62, 76).map((feira, index) => (
+      {/* .slice(62, 76) */}
+      {feiras.map((feira, index) => (
         <Marker
           icon={aberta(feira) ? myIconA : myIconF}
           zIndexOffset={aberta(feira) ? 1100 : 1}
