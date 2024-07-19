@@ -15,8 +15,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 body,
-body > div,
-.header {
+body > div {
   overflow: hidden;
 }
 
