@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import WeekCalendar from "./WeekCalendar";
+import Info from "./Info";
 const diasDaSemana = [
   "Domingo",
   "Segunda-feira",
@@ -32,7 +33,7 @@ function Header() {
   }, []);
 
   return (
-    <div className="header">
+    <header className="header">
       <div className="flexcontainer">
         <div className="esquerda">
           <div className="imgbounding">
@@ -44,9 +45,11 @@ function Header() {
           </div>
         </div>
         <div className="meio"></div>
-        <div className="direita"></div>
+        <div className="direita">
+          <Info />
+        </div>
       </div>
-    </div>
+    </header>
   );
 }
 

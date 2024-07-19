@@ -5,9 +5,7 @@
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
 }
-html {
-  scroll-behavior: smooth;
-}
+
 body {
   margin: 0;
   padding: 0;
@@ -16,9 +14,90 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+body,
+body > div,
+.header {
+  overflow: hidden;
+}
+
+.infodiv {
+  position: relative;
+  display: flex;
+}
+.infobtn {
+  border: none;
+  height: 28px;
+  width: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  font-size: 20px;
+  font-weight: 600;
+  color: #004a7f;
+  background-color: #fff;
+  z-index: 500;
+  font-family: "Times New Roman", Times, serif;
+  cursor: pointer;
+  align-self: center;
+  justify-self: center;
+  transition: transform 300ms;
+}
+.infobtn.close {
+  font-size: 16px;
+  color: #b9b9b9;
+}
+.infobox {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  padding: 24px;
+  width: 200px;
+  z-index: 500;
+  background-color: #fff;
+  transition: all 200ms;
+  transform: translateX(150%);
+}
+
+.infobox p {
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+.infobox p:nth-child(3) {
+  font-weight: 500;
+  margin-top: 12px;
+}
+.infobox.open {
+  transform: translateX(0);
+}
+.infobtn:hover {
+  transform: scale(1.1);
+}
+
+.leaflet-control-attribution.leaflet-control a svg {
+  filter: grayscale(1);
+}
+
+.leaflet-popup-content div p:first-child {
+  font-size: 16px;
+  color: #004a7f;
+  margin-bottom: 12px;
+}
+.leaflet-popup-content div p {
+  margin: 0;
+  margin-bottom: 8px;
+}
+.leaflet-popup-content div p:nth-child(2) {
+  margin-bottom: 8px;
+}
+.leaflet-popup-content div p:nth-child(4) {
+  font-weight: 500;
+
+  color: #000;
+}
 
 .header {
-  height: calc(80px - 24px);
+  height: 56px;
   background-color: #004a7f;
   padding: 18px 36px;
 }
@@ -37,11 +116,23 @@ body {
   display: flex;
   gap: 48px;
 }
+.direita {
+  display: flex;
+}
+.imgbounding {
+  width: 120px;
+}
 .imgbounding,
 .imgbounding img {
   height: 100%;
+  user-select: none;
 }
 
+.textheader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 .titulo {
   font-size: 32px;
   font-weight: 800;
@@ -64,6 +155,7 @@ body {
   transform: translateX(-50%);
   border-radius: 12px;
   backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
 }
 
 .meio {
@@ -84,7 +176,6 @@ body {
 }
 .day.active:hover,
 .day.selected:hover {
-  background-color: #ffffff;
 }
 
 .day:first-child {
@@ -99,8 +190,105 @@ body {
 }
 
 .day.selected {
-  box-shadow: inset 0 50px 0 0 #004a7f;
   background-color: #004a7f;
   opacity: 1;
   color: #fff;
+}
+
+@media (max-width: 38.25em) {
+  .day {
+    padding: 12px 14px;
+  }
+  .titulo {
+    font-size: 28px;
+    color: #fff;
+  }
+  .esquerda {
+    width: 100%;
+    justify-content: space-between;
+    text-align: right;
+    gap: 18px;
+  }
+  .infodiv {
+    position: absolute;
+    top: 106px;
+    right: 12px;
+  }
+  .infobtn {
+    margin-bottom: 12px;
+  }
+  .infobox {
+    width: 140px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 31em) {
+  .header {
+    height: 56px;
+    padding: 18px 18px;
+  }
+
+  .weekholder {
+    bottom: -2px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    border-radius: 0;
+  }
+  .day {
+    padding: 12px 0;
+    text-align: center;
+  }
+  .day:first-child,
+  .day:last-child {
+    border-radius: 0;
+  }
+}
+@media (max-width: 26em) {
+  .titulo {
+    font-size: 28px;
+  }
+  .data {
+    font-size: 14px;
+  }
+
+  .weekholder {
+    font-size: 14px;
+  }
+  .day {
+    padding: 18px 0;
+  }
+}
+@media (max-width: 24em) {
+  .esquerda {
+    width: 100%;
+    justify-content: space-between;
+    text-align: right;
+    gap: 12px;
+  }
+  .titulo {
+    font-size: 24px;
+  }
+  .data {
+    font-size: 14px;
+  }
+
+  .header {
+    height: 52px;
+    padding: 16px 16px;
+  }
+  @media (max-width: 20.625em) {
+    .titulo {
+      font-size: 22px;
+    }
+    .data {
+      font-size: 14px;
+    }
+
+    .header {
+      height: 48px;
+      padding: 14px 14px;
+    }
+  }
 }

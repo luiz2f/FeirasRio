@@ -7,10 +7,9 @@ import { feiras } from "./assets/feiras";
 
 function Map({ selected }) {
   const position = [-22.92, -43.32];
-
   const iconsize = [30, 45];
   const iconanchor = [iconsize[0] / 2, iconsize[1]];
-  console.log(iconanchor);
+
   const myIconA = new L.icon({
     iconUrl: "/iconA.png",
     iconRetinaUrl: "/iconA.png",
@@ -51,7 +50,7 @@ function Map({ selected }) {
           position={[feira.latitude, feira.longitude]}
         >
           <Popup>
-            <div style={{ textAlign: "center" }}>
+            <div>
               <p>
                 <strong>{feira.bairro}</strong>
               </p>

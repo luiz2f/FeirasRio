@@ -3,6 +3,7 @@ import Map from "./Map";
 import Header from "./Header";
 import { getDay } from "./assets/dia";
 import WeekCalendar from "./WeekCalendar";
+import Info from "./Info";
 
 function App() {
   const [count, setCount] = useState(0);
